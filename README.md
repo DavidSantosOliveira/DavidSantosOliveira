@@ -9,7 +9,7 @@ Bem vindos ao meu resposítório Github!
 
 <!---APRESENTAÇÃO--->  
 <div display="block">
-<p align="center">‍- 🔭 Atualmente estou trabalhando e estudando</p>
+<p align="center">‍- 🔭 Atualmente estou estudando Front-End pela Softex - PE</p>
 <p align="center">- 🌱 Atualmente estou aprendendo linguagem HTML + CSS + Javascript</p>
 <p align="center">- 👯 Estou procurando colaborar com minha turma</p>
 <p align="center">- 🤔 Estou procurando ajuda com Front-End</p>
@@ -22,8 +22,10 @@ Bem vindos ao meu resposítório Github!
 <!---ESTATÍSTICAS DO GITHUB--->
 <p align="center">
 <a href="https://github.com/DavidSantosOliveira">
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AugustoQueiroz13&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&langs_count=8&theme=algolia"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DavidSantosOliveira
+&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DavidSantosOliveira
+&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
@@ -47,7 +49,7 @@ Bem vindos ao meu resposítório Github!
 ## Contatos:
 <div>
 <a href="https://www.youtube.com/seu-canal-youtube-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-<a href="https://instagram.com/seu-usuário-instagram-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://instagram.com/david_oliveiraoficial" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.twitch.tv/seu-usuário-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 <a href = "mailto:contato@seu-usuário-aqui"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
