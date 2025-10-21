@@ -27,7 +27,7 @@ Bem vindos ao meu resposítório Github!
 </a>
 </p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AugustoQueiroz13&radius=16&theme=react&area=true&order=5&hide_border=true" height="300" alt="activity-graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DavidSantosOliveira&radius=16&theme=react&area=true&order=5&hide_border=true" height="300" alt="activity-graph"/>
 </p>
 
 <br>
