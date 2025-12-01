@@ -20,11 +20,12 @@ Bem vindos ao meu resposítório Github!
 <br>  
 
 <!---ESTATÍSTICAS DO GITHUB--->
+
 <p align="center">
-<a href="https://github.com/DavidSantosOliveira">
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DavidSantosOliveira&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DavidSantosOliveira&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+  <a href="https://github.com/DavidSantosOliveira" target="_blank">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DavidSantosOliveira&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DavidSantosOliveira&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
 </p>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DavidSantosOliveira&radius=16&theme=react&area=true&order=5&hide_border=true" height="300" alt="activity-graph"/>
